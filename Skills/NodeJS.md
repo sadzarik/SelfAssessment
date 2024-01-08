@@ -1,18 +1,18 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 👂 heard
-  - Stateful and stateless servers: 👂 heard
-  - Nonblocking I/O and slocking code: 👂 heard
-  - Event loop: phases: 👂 heard
-  - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection: 👂 heard
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and slocking code: 🎓 known
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
-  - ECMAScript modules: 👂 heard
+  - CommonJS modules: 🙋 used
+  - ECMAScript modules: 🙋 used
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons: 👂 heard
@@ -33,7 +33,7 @@
   - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API: 👂 heard
+  - Streams API: 🙋 used
   - Web Streams API: 👂 heard 
   - Crypto API: 🙋 used
   - Password hashing with node:crypto.scrypt
@@ -67,7 +67,7 @@
   - Inversion of control: 👂 heard
   - Dependency injection: 🙋 used
   - GRASP
-  - SOLID: 👂 heard
+  - SOLID: 🙋 used
   - GoF patterns: 👂 heard
   - Distributed systems
   - Highload applications
@@ -78,7 +78,7 @@
   - CQRS
   - Event sourcing
   - Load balancing
-  - Serverless clouds: 👂 heard
+  - Serverless clouds: 🙋 used
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
